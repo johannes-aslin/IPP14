@@ -1,4 +1,4 @@
-package com.example.scavenger;
+package com.scavenger.scavenger;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;

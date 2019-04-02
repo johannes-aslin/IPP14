@@ -1,4 +1,4 @@
-package com.example.scavenger;
+package com.scavenger.scavenger;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
