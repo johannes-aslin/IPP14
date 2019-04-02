@@ -1,4 +1,4 @@
-package com.example.scavanger;
+package com.example.scavenger;
 
 import org.junit.Test;
 
